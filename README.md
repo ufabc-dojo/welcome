@@ -17,7 +17,7 @@ A lista de vantagens/permissões de ser vinculado/a à UFABC Dojo ainda está se
 
 #### Requisitos para Participação.
 
-I. Ser membro da comunidade da UFABC Dojo.
+I. Ser membro da comunidade da UFABC Dojo. </br>
 II. Ser Discente com matrícula ativa em qualquer curso da Universidade Federal do ABC.
 
 #### Etapas
