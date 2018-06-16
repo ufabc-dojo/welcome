@@ -22,7 +22,7 @@ II. Ser Discente com matrícula ativa em qualquer curso da Universidade Federal 
 
 #### Etapas
 
-(Quest #1) Acaso não tiver acesso, faça um Fork/Pull Request desse repositório incluindo uma pasta com 17 scripts (implementados em linguagens distintas entre si) que imprimam na saída padrão a mensagem: "Odeio Processos Seletivos". Não peça permissão com antecedência, apenas faça o PR. 
+(Quest #1) Acaso não tiver acesso, faça um Fork/Pull Request desse repositório incluindo uma pasta com 17 scripts (implementados em linguagens distintas entre si) que imprimam na saída padrão a mensagem: "Odeio Processos Seletivos". Por favor, coloque dentro da pasta "quest_one". Não é necessário pedir permissão com antecedência, apenas faça o PR. 
 
 (Quest #2) Encontre um(a) dojo-member para ser o(a) seu(sua) tutor(a). A lista de membros/as está disponível em: [clica aqui que eu te leva pra lá](https://github.com/ufabc-dojo/welcome/blob/master/MAINTAINERS.md).
 
